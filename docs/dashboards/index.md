@@ -13,7 +13,7 @@ This graph shows total generation, thermal generation (coal), load reduction and
 
 ## Energy availability factor and outages
 
-Eskom's most important KPI is "EAF" or "Energy availability factor". This is usually given as a percentage representing how much of their theoretical generation capability is actually producing power. The rest is split between "PCLF" (planned capability loss factor, or units that are down for planned maintenance), "UCLF" (unplanned capability loss factor, or units that are down due to breakdowns), and "OCLF" (other capability loss factor or units that are out "due to constraints out of the power station management control". This graph shows EAF, PLCF, UCLF, and OCLF. View a larger version [here](https://metabase.dwyer.co.za/public/question/d3c78719-cc25-44b4-8e74-5accced27b88).
+Eskom's most important KPI is "EAF" or "Energy availability factor". This is usually given as a percentage representing how much of their theoretical generation capability is actually producing power. The rest is split between "PCLF" (planned capability loss factor, or units that are down for planned maintenance), "UCLF" (unplanned capability loss factor, or units that are down due to breakdowns), and "OCLF" (other capability loss factor or units that are out "due to constraints out of the power station management control"). This graph shows EAF, PLCF, UCLF, and OCLF. View a larger version [here](https://metabase.dwyer.co.za/public/question/d3c78719-cc25-44b4-8e74-5accced27b88).
 
 <iframe    src="https://metabase.dwyer.co.za/public/question/d3c78719-cc25-44b4-8e74-5accced27b88"    frameborder="0"    width="800"    height="600"    allowtransparency></iframe>
 
