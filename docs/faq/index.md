@@ -8,7 +8,7 @@ Because Eskom failed to build new generation capacity, it ran its aging power pl
 
 Here's a graph showing the utilization factor of Eskom's plants compared to VGB benchmarks. 
 
-![VGB benchmark graph](ima
+![VGB benchmark graph](img/eskom-vs-vgb.png)
 
 
 
