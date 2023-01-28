@@ -27,6 +27,15 @@ nav:
     - dashboards/index.md
   - Heatmap: 
     - heatmap/index.md
+  - FAQ: 
+    - faq/index.md
+  - About: 
+    - about/index.md
+extra:
+  generator: false
+  analytics:
+    provider: plausible 
+    property: unofficialeskom.com
   - About: 
     - about/index.md
 extra:
