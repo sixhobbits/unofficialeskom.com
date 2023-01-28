@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.sections
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
 
   palette:
@@ -30,3 +31,6 @@ nav:
     - about/index.md
 extra:
   generator: false
+  analytics:
+    provider: plausible 
+    property: unofficialeskom.com
