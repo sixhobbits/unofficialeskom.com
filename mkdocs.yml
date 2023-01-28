@@ -1,0 +1,32 @@
+site_name: Unofficial Eskom
+site_url: 'https://unofficialeskom.com'
+site_description: >-
+    Stats and information about Eskom, South Africa's electricity provider. Not endorsed or official.
+
+theme:
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.sections
+  name: material
+  logo: assets/logo.png
+
+  palette:
+    primary: blue 
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - meta
+
+nav:
+  - Home: 
+    - index.md
+  - Dashboards: 
+    - dashboards/index.md
+  - Heatmap: 
+    - heatmap/index.md
+  - About: 
+    - about/index.md
+extra:
+  generator: false
