@@ -1,6 +1,6 @@
 # Heatmap calendar
 
-Loadshedding since 2018 - darker shades indicate a higher max loadshedding stage on that day. Data from [EskomSePush (ESP)](https://sepush.co.za)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/edit#gid=863218371).
+Loadshedding since 2015 - darker shades indicate a higher max loadshedding stage on that day. Data from [EskomSePush (ESP)](https://sepush.co.za)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/edit#gid=863218371).
 
 ### 2015
 ![](./img/2015.png)
