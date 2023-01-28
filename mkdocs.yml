@@ -36,10 +36,3 @@ extra:
   analytics:
     provider: plausible 
     property: unofficialeskom.com
-  - About: 
-    - about/index.md
-extra:
-  generator: false
-  analytics:
-    provider: plausible 
-    property: unofficialeskom.com
