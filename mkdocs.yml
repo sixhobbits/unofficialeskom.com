@@ -22,7 +22,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Dashboards: dashboards/index.md
+  - Dashboards: 
+      - dashboards/index.md
+      - Long-term Dashboards: dashboards/long-term.md
   - Heatmap: heatmap/index.md
   - FAQ: faq/index.md
   - About: about/index.md
