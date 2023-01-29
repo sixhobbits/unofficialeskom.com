@@ -28,6 +28,7 @@ nav:
       - Long-term Dashboards: dashboards/long-term.md
   - Heatmap: heatmap/index.md
   - FAQ: faq/index.md
+  - Latest: latest/index.md
   - About: about/index.md
 extra:
   generator: false
