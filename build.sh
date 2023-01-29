@@ -14,6 +14,6 @@ git push origin main
 
 cat LATEST_LOADSHEDDING_TWEET.txt > docs/latest/index.md
 
-rsync -hvrPt site/* het:/var/www/unofficialeskom.com/
+rsync -hvrPt site/* /var/www/unofficialeskom.com/
 
 
