@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 source venv/bin/activate
 mkdocs build
@@ -12,6 +12,8 @@ else
 fi
 git push origin main
 
-rsync -hvrPt site/* het:/var/www/unofficialeskom.com/
+cat LATEST_LOADSHEDDING_TWEET.txt > docs/latest/index.md
+
+cp -r site/* /var/www/unofficialeskom.com
 
 
