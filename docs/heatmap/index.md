@@ -14,7 +14,7 @@ Loadshedding since 2015 - darker shades indicate a higher max loadshedding stage
 ![](./img/2019.png)
 ### 2020
 ![](./img/2020.png)
-### 2011
+### 2021
 ![](./img/2021.png)
 ### 2022
 ![](./img/2022.png)
