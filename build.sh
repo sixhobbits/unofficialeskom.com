@@ -13,6 +13,7 @@ fi
 git push origin main
 
 cat LATEST_LOADSHEDDING_TWEET.txt > docs/latest/index.md
+mkdocs build
 
 cp -r site/* /var/www/unofficialeskom.com
 
