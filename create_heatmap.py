@@ -50,5 +50,5 @@ events = events.squeeze()
 
 for year in [2023]:
     yearplot = calmap.yearplot(events, year=year, how='max')
-    yearplot.get_figure().savefig(f"{year}.png", bbox_inches='tight')
+    yearplot.get_figure().savefig(f"docs/heatmap/img/{year}.png", bbox_inches='tight')
     yearplot.clear()

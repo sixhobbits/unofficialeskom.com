@@ -54,12 +54,9 @@ for tweet in tweets[:1]:
     if "poweralert" or "loadsheddingupdate" in tweet_text.lower():
         print(date)
         print(tweet_text)
-        with open("LATEST_LOADSHEDDING_TWEET.txt", "w") as f:
+        with open("docs/latest/index.md", "w") as f:
             f.write("# Latest\n\n")
-            f.write("```\n")
-            f.write(date)
+            f.write("**" + date + "**\n")
+            f.write(tweet_text.replace("#", "\#"))
             f.write("\n")
-            f.write(tweet_text)
-            f.write("\n")
-            f.write("```\n")
 
