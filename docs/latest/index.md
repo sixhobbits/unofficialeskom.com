@@ -1,8 +1,7 @@
 # Latest
 
-```
-2023-01-29T17:26:33.000Z
-#POWERALERT1
+**2023-01-31T09:48:31.000Z**
 
-Stage 4 loadshedding will be implemented continuously until further notice
-```
+\#PowerAlert1
+
+Stage 5 loadshedding will be implemented from 12:00 this afternoon until 21:00 tonight. Thereafter Stage 6 loadshedding will be implemented until 05:00 tomorrow morning.
