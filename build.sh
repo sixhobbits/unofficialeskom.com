@@ -3,7 +3,9 @@
 cd "$(dirname "$0")"
 
 source venv/bin/activate
-cat LATEST_LOADSHEDDING_TWEET.txt > docs/latest/index.md
+
+python eskom_twitter_scraper.py
+python create_heatmap.py
 
 git add .
 if [ "$1" != "" ] # or better, if [ -n "$1" ]
