@@ -56,7 +56,7 @@ for tweet in tweets[:1]:
         print(tweet_text)
         with open("docs/latest/index.md", "w") as f:
             f.write("# Latest\n\n")
-            f.write("**" + date + "**\n")
+            f.write("**" + date + "**\n\n")
             f.write(tweet_text.replace("#", "\#"))
             f.write("\n")
 

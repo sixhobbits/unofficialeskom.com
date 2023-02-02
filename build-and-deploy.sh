@@ -1,16 +1,23 @@
 #!/bin/bash
 
-# set working dir
 cd "$(dirname "$0")"
 
-# fetch latest handbook
-# git reset --hard
-rm -rf site
-git pull
+source venv/bin/activate
 
-# build static site
-source ./venv/bin/activate
+python eskom_twitter_scraper.py
+python create_heatmap.py
+
+git add .
+if [ "$1" != "" ] # or better, if [ -n "$1" ]
+then
+    git commit -m "$1"
+else
+    git commit -m update
+fi
+git push origin main
+
 mkdocs build
 
-# scp static files to production
 cp -r site/* /var/www/unofficialeskom.com
+
+
