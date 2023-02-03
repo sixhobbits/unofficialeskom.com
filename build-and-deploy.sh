@@ -4,6 +4,8 @@ cd "$(dirname "$0")"
 
 source venv/bin/activate
 
+git pull
+
 python eskom_twitter_scraper.py
 python create_heatmap.py
 
