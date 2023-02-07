@@ -1,7 +1,9 @@
 # Latest
 
-**2023-02-05T17:03:44.000Z**
+**2023-02-07T10:34:02.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate 
 
-Loadshedding will be implemented at Stages 3 and 4 between 05:00 on Monday morning and 16:00 on Wednesday
+Power Alert: 07 February 2023 
+
+The implementation of loadshedding will remain at Stage 4 during 16:00 - 05:00 and Stage 3 at 05:00 - 16:00 daily until further notice
