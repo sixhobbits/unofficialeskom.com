@@ -1,7 +1,9 @@
 # Latest
 
-**2023-02-12T16:26:04.000Z**
+**2023-02-17T21:52:09.000Z**
 
-\#POWERALERT1
+Power Alert: 17 February 2023
 
-Loadshedding will be implemented at Stages 3 and 4 during the week
+Due to  breakdowns of a generating unit each at Koeberg, Medupi, Kriel, Arnot & Lethabo power stations, the implementation of loadshedding will be maintained at Stage 4 until further notice.
+
+ Eskom will issue updates as soon as it is necessary
