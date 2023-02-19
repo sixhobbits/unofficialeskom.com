@@ -1,8 +1,7 @@
 # Latest
 
-**2023-02-18T14:40:32.000Z**
+**2023-02-19T10:55:04.000Z**
 
-\#LoadsheddingUpdate 
-1/2
+\#PowerAlert1
 
-In order to create space to replenish the emergency generation reserves, Eskom will implement Stage 6 loadshedding from 20:00 tonight until 05:00 tomorrow morning.
+Stage 4 loadshedding will continue to be implemented until further notice while Stage 6 will be implemented at 20:00 tonight until 05:00 on Monday morning.
