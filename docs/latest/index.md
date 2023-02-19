@@ -1,7 +1,7 @@
 # Latest
 
-**2023-02-19T10:55:04.000Z**
+**2023-02-19T20:32:30.000Z**
 
-\#PowerAlert1
+\#POWERALERT2
 
-Stage 4 loadshedding will continue to be implemented until further notice while Stage 6 will be implemented at 20:00 tonight until 05:00 on Monday morning.
+Due to the breakdowns of eight generation units on Sunday afternoon, Stage 6 loadshedding will be implemented continuously until further notice.
