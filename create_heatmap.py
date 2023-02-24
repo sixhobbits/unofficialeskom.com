@@ -8,9 +8,10 @@ import pandas as pd
 # read ESP's CSV
 import requests
 
-r = requests.get("https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/gviz/tq?tqx=out:csv&sheet=EskomSePush_history")
+'''r = requests.get("https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/gviz/tq?tqx=out:csv&sheet=EskomSePush_history")
 with open("loadshedding.csv", "wb") as f:
     f.write(r.content)
+    '''
 df = pd.read_csv("loadshedding.csv")
 
 # convert to date time
