@@ -1,7 +1,5 @@
 # Latest
 
-**2023-02-19T20:32:30.000Z**
+**2023-02-25T15:30:08.000Z**
 
-\#POWERALERT2
-
-Due to the breakdowns of eight generation units on Sunday afternoon, Stage 6 loadshedding will be implemented continuously until further notice.
+Stage 5 loadshedding will be implemented from 05:00 on Sunday morning - until further notice. Eskom will publish a full statement in due course.
