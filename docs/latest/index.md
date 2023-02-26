@@ -1,7 +1,7 @@
 # Latest
 
-**2023-02-26T06:57:25.000Z**
+**2023-02-26T13:18:07.000Z**
 
-Stage 4 loadshedding will be implemented from 09:00 on Sunday morning - until further notice. 
+A guide to preventing accidents and injuries during loadshedding and power outages 
 
-Eskom will publish a full statement in due course.
+\#EskomCares \#PowerWise \#ReduceDemand \#Loadshedding \#MEGA
