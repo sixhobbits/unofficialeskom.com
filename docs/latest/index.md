@@ -1,5 +1,7 @@
 # Latest
 
-**2023-02-25T15:30:08.000Z**
+**2023-02-26T06:57:25.000Z**
 
-Stage 5 loadshedding will be implemented from 05:00 on Sunday morning - until further notice. Eskom will publish a full statement in due course.
+Stage 4 loadshedding will be implemented from 09:00 on Sunday morning - until further notice. 
+
+Eskom will publish a full statement in due course.
