@@ -1,7 +1,7 @@
 # Latest
 
-**2023-02-26T17:29:33.000Z**
+**2023-02-28T12:33:46.000Z**
 
-\#PowerAlert1 
+\#POWERALERT1
 
-Loadshedding will be gradually reduced to Stage 3 during the course of the week
+ Loadshedding will continue to be implemented at Stage 3 until 16:00 today. Thereafter, Stage 4 loadshedding will be implemented from 16:00 today until 16:00 tomorrow and Stage 5 loadshedding will then be implemented from 16:00 until 05:00 on Thursday
