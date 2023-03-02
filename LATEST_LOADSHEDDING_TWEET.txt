@@ -1,8 +1,8 @@
 # Latest
 
 ```
-2023-02-28T12:33:46.000Z
+2023-03-02T12:42:32.000Z
 #POWERALERT1
 
- Loadshedding will continue to be implemented at Stage 3 until 16:00 today. Thereafter, Stage 4 loadshedding will be implemented from 16:00 today until 16:00 tomorrow and Stage 5 loadshedding will then be implemented from 16:00 until 05:00 on Thursday
+Loadshedding will continue to be implemented at Stage 4 until 16:00 today. Thereafter, Stage 5 loadshedding will be implemented from 16:00 today until 05:00 on Friday. Stage 4 loadshedding will again be implemented from 05:00 on Friday until 05:00 on Saturday
 ```
