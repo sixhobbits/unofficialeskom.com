@@ -1,8 +1,6 @@
 # Latest
 
 ```
-2023-03-02T13:58:58.000Z
-#POWERALERT1
-
-Loadshedding will continue to be implemented at Stage 4 until 16:00 today. Thereafter, Stage 5 loadshedding will be implemented from 16:00 today until 05:00 on Friday. Stage 4 loadshedding will again be implemented from 05:00 on Friday until 05:00 on Saturday
+2023-03-04T12:23:39.000Z
+Loadshedding Stage 4 will be implemented from 16:00 today until 05:00 on Sunday morning. Thereafter, Stage 2 loadshedding will be implemented from 05:00 until 16:00 followed by Stage 3 loadshedding until 05:00 on Monday morning. Eskom will publish a further outlook on Sunday.
 ```
