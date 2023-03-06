@@ -1,7 +1,5 @@
 # Latest
 
-**2023-03-05T12:20:52.000Z**
+**2023-03-06T12:03:50.000Z**
 
-\#POWERALERT1
-
-Stage 4 loadshedding will be implemented from 16:00 today until Tuesday morning
+Following the failure of five generating units today, Stage 5 loadshedding will be implemented from 16:00 today until 05:00 tomorrow whereafter Stage 4 loadshedding will resume until further notice.
