@@ -1,7 +1,7 @@
 # Latest
 
-**2023-03-08T09:56:24.000Z**
+**2023-03-10T11:41:15.000Z**
 
-\#LoadsheddingUpdates
+\#POWERALERT1
 
-Due to the return of a generating unit each at Kriel, Majuba & Matimba power stations, Stage 5 loadshedding will not be implemented today as previously communicated.  Stage 4 loadshedding will continue to be implemented until further notice.
+Loadshedding will be reduced from Stage 4 to Stage 3 over the weekend with Stage 1 loadshedding forecasted for Sunday morning
