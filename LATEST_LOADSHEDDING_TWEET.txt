@@ -1,8 +1,9 @@
 # Latest
 
 ```
-2023-03-10T11:41:15.000Z
+2023-03-12T12:32:43.000Z
 #POWERALERT1
 
-Loadshedding will be reduced from Stage 4 to Stage 3 over the weekend with Stage 1 loadshedding forecasted for Sunday morning
+Stage 4 loadshedding will be implemented from 16:00 today until 16:00 on Monday. Thereafter, 
+Stage 5 loadshedding will be implemented until 05:00 on Tuesday.
 ```
