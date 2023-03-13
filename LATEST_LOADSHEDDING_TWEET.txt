@@ -1,9 +1,8 @@
 # Latest
 
 ```
-2023-03-12T12:32:43.000Z
-#POWERALERT1
+2023-03-13T11:14:31.000Z
+#LoadsheddingUpdate 
 
-Stage 4 loadshedding will be implemented from 16:00 today until 16:00 on Monday. Thereafter, 
-Stage 5 loadshedding will be implemented until 05:00 on Tuesday.
+Due to some recovery in the generation capacity over the past 24 hours, #stage4 loadshedding will continue until further notice. Eskom will provide an update as soon as any significant changes occur.
 ```
