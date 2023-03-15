@@ -1,8 +1,7 @@
 # Latest
 
-**2023-03-14T11:56:12.000Z**
+**2023-03-15T13:20:56.000Z**
 
-\#POWERALERT1
+\#loadsheddingupdate
 
-Loadshedding will be reduced to Stage 3 from 05:00 on Wednesday until 16:00. Thereafter, Stage 
-4 loadshedding will be implemented until 05:00 on Thursday.
+Due to some improvements in the generation capacity over the past 24 hours, Stage 3 loadshedding will remain in force until further notice. Eskom will provide an update as soon as any significant changes occur.
