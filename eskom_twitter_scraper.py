@@ -44,8 +44,8 @@ except WebDriverException:
 tweets = driver.find_elements(By.CSS_SELECTOR, '[data-testid="tweet"]')
 
 for tweet in tweets[:1]:
-    tag_text = tweet.find_element(By.CSS_SELECTOR,'div[data-testid="User-Names"]').text
-    name, handle, _, timestamp = tag_text.split('\n')
+    # tag_text = tweet.find_element(By.CSS_SELECTOR,'div[data-testid="User-Names"]').text
+    # name, handle, _, timestamp = tag_text.split('\n')
     tweet_text = tweet.find_element(By.CSS_SELECTOR,'div[data-testid="tweetText"]').text
     date = tweet.find_element(By.XPATH, ".//time").get_attribute("datetime")
     retweet_count = tweet.find_element(By.CSS_SELECTOR,'div[data-testid="retweet"]').text
