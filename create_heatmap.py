@@ -1,17 +1,24 @@
 import matplotlib as mpl
 mpl.rcParams['figure.dpi'] = 300
 mpl.rcParams['ytick.labelsize'] = 'x-small'
+
 import calmap
-
-
 import pandas as pd
-# read ESP's CSV
 import requests
 
+from datetime import datetime
+
+# read ESP's CSV
 r = requests.get("https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/gviz/tq?tqx=out:csv&sheet=EskomSePush_history")
 with open("loadshedding.csv", "wb") as f:
     f.write(r.content)
 df = pd.read_csv("loadshedding.csv")
+
+# add a new row for today with the most recent stage
+new_row = {'created_at': datetime.now().strftime("%Y-%m-%d %H:00:00"), 'stage': df.iloc[0]['stage']}
+new_row = pd.DataFrame(new_row,index=[0])
+
+df = pd.concat([new_row, df.loc[:]])
 
 # convert to date time
 df['created_at'] = pd.to_datetime(df['created_at'])
