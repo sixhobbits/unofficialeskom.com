@@ -5,9 +5,9 @@ site_description: >-
 
 theme:
   features:
-    - navigation.indexes
     - navigation.tabs
-    - navigation.sections
+    - navigation.path
+    - navigation.indexes
   name: material
   custom_dir: overrides
   logo: assets/logo.png
