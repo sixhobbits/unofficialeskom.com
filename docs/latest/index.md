@@ -1,7 +1,7 @@
 # Latest
 
-**2023-05-06T00:53:48.000Z**
+**2023-05-06T11:44:48.000Z**
 
 \#LoadsheddingUpdate
 
-06 May 2023: Due to the further breakdown of a  generating units in the early hours of the morning, Stage 4 loadshedding will be implemented at 05:00 this morning until 16:00 (previously Stage 3 loadshedding communicated). Eskom will publish a further update… Show more
+Saturday, 6 May 2023: Due to a shortage of generating capacity, Stage 5 loadshedding will be implemented until further notice. This is necessary following the failure of five generating units; three from Medupi Power Station and two from Duvha Power Station.… Show more
