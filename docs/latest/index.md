@@ -1,7 +1,8 @@
 # Latest
 
-**2023-05-07T12:26:34.000Z**
+**2023-05-12T12:53:41.000Z**
 
 \#POWERALERT1
 
-Stage 6 loadshedding will be implemented from 16:00 this afternoon until further notice
+Due to lower weekend demand, loadshedding will be reduced to Stage 3 from 05:00 until 16:00 
+on Saturday
