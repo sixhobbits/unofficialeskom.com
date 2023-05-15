@@ -1,8 +1,9 @@
 # Latest
 
-**2023-05-14T09:36:12.000Z**
+**2023-05-15T12:25:27.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate
 
-Stage 6 loadshedding will be implemented from 16:00 this afternoon until 05:00 on Monday.
-Thereafter, Stage 4 and 6 will be implemented during the week
+Monday,15 May 2023: 
+
+Due to the cold weather, the demand for electricity is higher than anticipated. In addition, the failure of two generating units, one of which has since returned to service, requires that Stage 6 loadshedding be implemented at 15:00… Show more
