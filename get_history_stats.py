@@ -100,7 +100,7 @@ print(current_streak)
 (83.0, '2023-05-14 07:00:00')
 '''
 
-TEXT = f"We have been loadshedding for {current_streak[0]} hours, since {current_streak[1]}. The longest stage 1 (or more) streak started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours. The longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
+TEXT = f"We have been loadshedding continuously for {current_streak[0]} hours, since {current_streak[1]}. The longest stage 1 (or more) streak started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours. The longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 
 with open("docs/heatmap/index.md") as f:
     s = f.read()
