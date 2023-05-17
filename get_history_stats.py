@@ -105,4 +105,6 @@ TEXT = f"We have been loadshedding for {current_streak[0]} hours, since {current
 with open("docs/heatmap/index.md") as f:
     s = f.read()
     s = s.replace("REPLACEME", TEXT)
+
+with open("docs/heatmap/index.md", "w") as f:
     f.write(s)
