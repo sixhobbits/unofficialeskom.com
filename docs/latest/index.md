@@ -1,8 +1,8 @@
 # Latest
 
-**2023-05-21T12:15:27.000Z**
+**2023-05-22T17:20:52.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate
+Monday, 22 May 2023: 
 
-Stage 4 loadshedding will be implemented from 16:00 this afternoon until 05:00 on Monday.
-Thereafter, Stage 3 loadshedding will be implemented from 05:00 until 16:00 on Monday
+Due to the breakdown of a generating unit each at Arnot, Majuba and Medupi power stations, Stage 4 loadshedding will be implemented from 05:00 to 16:00 on Tuesday (tomorrow) and not Stage 3 as previously communicated. Thereafter, the… Show more
