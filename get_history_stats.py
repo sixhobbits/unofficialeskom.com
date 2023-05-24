@@ -104,7 +104,10 @@ TEXT = f"We have been loadshedding continuously for {current_streak[0]} hours, s
 
 with open("docs/heatmap/index.md") as f:
     s = f.read()
-    s = s.replace("REPLACEME", TEXT)
+    lines = s.split("\n")
+    lines[2] = TEXT
+    towrite = '\n'.join(lines)
+    
 
 with open("docs/heatmap/index.md", "w") as f:
-    f.write(s)
+    f.write(towrite)
