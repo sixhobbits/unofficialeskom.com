@@ -1,7 +1,7 @@
 # Latest
 
-**2023-05-23T09:18:14.000Z**
+**2023-05-26T12:01:30.000Z**
 
-\#POWERALERT1
+\#PowerAlert1 
 
-Stage 5 loadshedding will be implemented from 16:00 this afternoon until 05:00 on Wednesday.  Thereafter, Stage 4 loadshedding will be implemented from 05:00 until 16:00 on Wednesday
+Stage 5 loadshedding will be implemented from 16:00 this afternoon until 05:00 on Saturday, with varying stages of loadshedding implemented over the weekend.
