@@ -1,8 +1,9 @@
 # Latest
 
-**2023-06-03T10:35:32.000Z**
+**2023-06-03T13:29:04.000Z**
 
-\#LoadsheddingUpdate 
-03 June 2023:  
+\#LoadsheddingUpdate 2
 
-Due to improved generation capacity and lower demand, Loadshedding was suspended today at 11:40 until further notice. Eskom will communicate immediately when any significant changes occurs.
+Saturday, 3 June, 2023
+
+ Loadshedding will remain suspended until 16:00 this afternoon. Thereafter, Stage 4 loadshedding will be implemented from 16:00 until 05:00 tomorrow. On Sunday, loadshedding will be suspended from 05:00 until 16:00. Eskom will… Show more
