@@ -1,7 +1,8 @@
 # Latest
 
-**2023-06-04T12:21:09.000Z**
+**2023-06-06T05:27:14.000Z**
 
-\#PowerAlert1 
+\#LoadsheddingUpdate
+Tuesday, 06 June 2023: 
 
-Stage 2 loadshedding will be implemented from 16:00 this afternoon until 05:00 on Monday. Thereafter, loadshedding will be suspended until 16:00 on Monday.
+Due to an improvement in available generation capacity, loadshedding will be suspended from 08:00 until 16:00 today. Thereafter, Stage 4 loadshedding will be implemented from 16:00 as per the latest schedule published previously. Eskom… Show more
