@@ -1,7 +1,9 @@
 # Latest
 
-**2023-06-25T13:35:10.000Z**
+**2023-06-28T04:10:28.000Z**
 
-\#PowerAlert1
+\#LoadsheddingUpdate
 
-Loadshedding will be implemented at Stage 3 over the evening peak periods and suspended from midnight until 16:00 until further notice.
+Wednesday, 28 June 2023: Due to the delay in returning to service some generating units , Stage 2 loadshedding will be implemented  today at 07:00 until 16:00.   Thereafter, Stage 3 loadshedding will be implemented from 16:00 until midnight. 
+
+Eskom will… Show more
