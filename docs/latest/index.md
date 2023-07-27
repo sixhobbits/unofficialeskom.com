@@ -1,7 +1,5 @@
 # Latest
 
-**2023-06-28T13:21:00.000Z**
+**2022-12-07T09:29:10.000Z**
 
-\#PowerAlert1
-
-Stage 3 loadshedding will be implemented from 16:00 today until midnight, as previously communicated. Thereafter, Stage 1 loadshedding will be implemented from 05:00 until 16:00 on Thursday.
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
