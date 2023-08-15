@@ -1,5 +1,5 @@
 # Latest
 
-**2022-10-18T03:43:42.000Z**
+**2022-12-07T09:29:10.000Z**
 
-Stage 4 loadshedding was implemented at 05:30 due to breakdowns of five generators at five power stations overnight.  The loadshedding will be implemented until further notice.
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
