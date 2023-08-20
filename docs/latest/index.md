@@ -1,5 +1,5 @@
 # Latest
 
-**2023-01-04T12:08:57.000Z**
+**2022-12-07T09:29:10.000Z**
 
-Due to the breakdown of two generating units and the delay in returning to service three generating units from planned maintenance, Stage 3 loadshedding will be implemented today at 16:00 until further notice. Eskom will issue another update as soon as it becomes necessary.
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
