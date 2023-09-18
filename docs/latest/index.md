@@ -1,7 +1,5 @@
 # Latest
 
-**2023-05-07T12:26:34.000Z**
+**2022-12-07T09:29:10.000Z**
 
-\#POWERALERT1
-
-Stage 6 loadshedding will be implemented from 16:00 this afternoon until further notice
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
