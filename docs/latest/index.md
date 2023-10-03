@@ -1,5 +1,11 @@
 # Latest
 
-**2022-12-07T09:29:10.000Z**
+**2023-10-02T09:32:34.000Z**
 
-Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
+\#LoadsheddingUpdate
+
+Monday, 02 October 2023: 
+
+As anticipated, with breakdowns at an improved 12 983MW of generation capacity and evening peak demand forecast at 28 382 MW, loadshedding will continue to be suspended until 16:00 today.
+
+Thereafter, Stage 2 loadshedding will… Show more
