@@ -1,9 +1,10 @@
 # Latest
 
-**2023-10-04T15:31:20.000Z**
+**2023-10-05T18:13:30.000Z**
 
-\#LoadsheddingUpdate 
+\#LoadsheddingUpdate
+Thursday, 05 October 2023: 
 
-Wednesday, 04 October 2023. 
+As a result of the loss of four generation units and the need to replenish reserves in preparation for the week ahead, Stage 2 loadshedding will be implemented from 05:00 on Friday until further notice. 
 
-Owing to the stable electricity demand and generation performance, the current pattern where loadshedding is implemented from 16:00 until 05:00 the following day and suspended from 05:00 until 16:00, will continue daily until… Show more
+Eskom will communicate… Show more
