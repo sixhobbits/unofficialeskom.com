@@ -1,11 +1,5 @@
 # Latest
 
-**2023-10-18T18:16:17.000Z**
+**2022-12-07T09:29:10.000Z**
 
-\#LoadsheddingUpdate
-
-Wednesday, 18 October 2023: 
-
-With the emergency reserves fully replenished, Stage 1 loadshedding will be implemented from 22:00 tonight until 05:00 on Thursday.
-
- Thereafter, loadshedding will be suspended until 16:00, from which time Stage 2 loadshedding…
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
