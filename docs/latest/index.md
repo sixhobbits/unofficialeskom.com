@@ -1,11 +1,11 @@
 # Latest
 
-**2023-10-15T09:50:58.000Z**
+**2023-10-18T18:16:17.000Z**
 
 \#LoadsheddingUpdate
 
-Sunday, 15 October 2023: 
+Wednesday, 18 October 2023: 
 
-Owing to stable generation capacity with breakdowns at 13 158MW and planned maintenance at 6 051MW of generation capacity, loadshedding will remain suspended today until 16:00 on Monday. 
+With the emergency reserves fully replenished, Stage 1 loadshedding will be implemented from 22:00 tonight until 05:00 on Thursday.
 
-Thereafter, Stage 2 loadshedding will be…
+ Thereafter, loadshedding will be suspended until 16:00, from which time Stage 2 loadshedding…
