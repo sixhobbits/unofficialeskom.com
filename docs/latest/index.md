@@ -1,9 +1,11 @@
 # Latest
 
-**2023-10-19T18:27:50.000Z**
+**2023-10-22T08:59:26.000Z**
 
-\#LoadsheddingUpdate 
+\#LoadsheddingUpdate
 
-Thursday, 19 October 2023
+Sunday, 22 October 2023: 
 
-Eskom will suspend loadshedding from 22:00 tonight until 16:00 on Monday. The suspension of loadshedding for more than 3 days is as a result of the continued good generation fleet performance and the expected lower weekend demand.…
+Due to the continued improved generation fleet performance and emergency reserves fully recovered, loadsheding will remain suspended and only resume on Tuesday at 16:00. 
+
+Stage 1 loadshedding will be implemented on Tuesday from…
