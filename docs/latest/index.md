@@ -1,9 +1,9 @@
 # Latest
 
-**2023-10-24T09:41:18.000Z**
+**2023-10-25T12:14:49.000Z**
 
 \#LoadsheddingUpdate 
 
-Tuesday, 24 October 2023
+Wednesday, 25 October 2023
 
-Loadsheddinng will remain suspended until 16:00 on Wednesday. The continued suspension of loadshedding for more than four days is due to sufficient emergency generation reserves and the anticipated  evening peak demand for today of…
+Whilst the generation fleet is currently fairly constrained,  emergency reserves are adequate and as a result, loadshedding will remain suspended until 16:00 on Thursday. Stage 1 loadshedding will resume on Thursday from 16:00…
