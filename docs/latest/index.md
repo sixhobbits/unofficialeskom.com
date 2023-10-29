@@ -1,9 +1,5 @@
 # Latest
 
-**2023-10-26T11:13:57.000Z**
+**2022-12-07T09:29:10.000Z**
 
-\#LoadsheddingUpdate 
-
-Thursday, 26 October 2023 
-
-Due to sufficient generation capacity including emergency reserves, expected units to be returned to service as well as anticipated lower demand into the weekend, loadshedding will remain suspended until 16:00 on Sunday. Eskom…
+Stage 6 loadshedding will be implemented from 12:00 until further notice. This is due to a high number of breakdowns since midnight, as well as the requirement to strictly preserve the remaining emergency generation reserves. Eskom will publish a full statement in due course.
