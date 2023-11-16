@@ -1,10 +1,7 @@
 # Latest
 
-**2023-11-14T17:26:37.000Z**
+**2023-11-16T11:46:19.000Z**
 
-\#LoadsheddingUpdate 
-Tuesday, 14 November 2023: 
+\#POWERALERT1
 
-Whilst some generating units have  returned to service since Sunday, some are experiencing delays. 
-
-Due to these delays in returning the units back to service  and the need to conserve emergency  reserves,  Stage 2 loadshedding…
+Stage 3 loadshedding will be implemented from 16:00 today until 05:00 on Saturday. Thereafter, loadshedding will vary between Stages 1 and 2 over the weekend
