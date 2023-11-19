@@ -1,7 +1,9 @@
 # Latest
 
-**2023-11-16T11:46:19.000Z**
+**2023-11-19T05:52:16.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate 
 
-Stage 3 loadshedding will be implemented from 16:00 today until 05:00 on Saturday. Thereafter, loadshedding will vary between Stages 1 and 2 over the weekend
+Sunday, 19 November 2023
+
+In order to replenish emergency reserves in preparation for the week ahead, Stage 3 loadshedding will be implemented from 09:00 this morning until 05:00 on Monday. Eskom will communicate the outlook for the week ahead this…
