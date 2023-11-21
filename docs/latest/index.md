@@ -1,7 +1,7 @@
 # Latest
 
-**2023-11-19T14:39:05.000Z**
+**2023-11-21T06:33:32.000Z**
 
-\#PowerAlert1
+\#LoadsheddingUpdate 
 
-Loadshedding will remain at Stage 3 until 05:00 on Monday. Thereafter, Stage 2 loadshedding will be implemented until 16:00.
+Tuesday, 21 November 2023: Due to the imminent forced shutdown of two generating units this morning, Stage 2 loadshedding will be implemented from 09:00 until 16:00 today.  Thereafter, Stage 3 loadshedding will be implemented from 16:00 until 05:00 on…
