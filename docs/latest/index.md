@@ -1,11 +1,11 @@
 # Latest
 
-**2023-11-22T01:02:33.000Z**
+**2023-11-24T08:58:11.000Z**
 
 \#LoadsheddingUpdate
 
-Wednesday, 22 November 2023:
+Friday, 24 November 2023:
 
- Due to insufficient emergency reserves and generation capacity as a result of four units not returning to service as planned, Stage 4 loadshedding was implemented this morning at 02:31until further notice. 
+ It is with great regret that due to the shortage of generating capacity and emergency reserves, Stage 6 loadshedding will be implemented from 12:00 today until 05:00 on Monday. 
 
-Eskom will monitor…
+Eskom will publish a further communication today and…
