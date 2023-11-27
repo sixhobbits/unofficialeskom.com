@@ -1,7 +1,7 @@
 # Latest
 
-**2023-11-26T07:27:31.000Z**
+**2023-11-27T12:01:04.000Z**
 
-\#PowerAlert1
+\#POWERALERT1
 
-Loadshedding will be reduced to Stage 4 from 12:00 midday until 05:00 on Monday
+Stage 4 loadshedding will be implemented from 14:00 today until 05:00 on Saturday.
