@@ -1,7 +1,9 @@
 # Latest
 
-**2023-11-27T12:01:04.000Z**
+**2023-11-28T13:51:00.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate
 
-Stage 4 loadshedding will be implemented from 14:00 today until 05:00 on Saturday.
+Tuesday, 28 November 2023:
+
+ In order to replenish emergency reserves, Stage 4 loadshedding will continue to be implemented until 20:00 today. Thereafter, Stage 6 loadshedding will be implemented from 20:00 until 05:00 on Wednesday, followed by Stage 4…
