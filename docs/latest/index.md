@@ -1,12 +1,7 @@
 # Latest
 
-**2023-11-30T16:37:29.000Z**
+**2023-12-01T07:55:11.000Z**
 
-\#LoadsheddingUpdate
+\#LoadsheddingUpdate 
 
-Thursday, 30 November 2023: 
-(18:36)
-
-Due to further improvement in generation capacity and emergency reserves, loadshedding will be reduced to Stage 4 from 20:00 (previously communicated Stage 5 loadshedding) until 05:00 on Friday.
-
- Thereafter, Stage 3…
+Friday, 01 December 2023: Due to the sustained improvement of the  generation capacity with unplanned outages at 13 542MW, loadshedding will be reduced to Stage 2 from 10:00 today until 16:00. Thereafter, Stage 3 loadshedding will be implemented  from 16:00…
