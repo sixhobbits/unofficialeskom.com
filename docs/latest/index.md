@@ -1,7 +1,7 @@
 # Latest
 
-**2023-12-02T16:26:42.000Z**
+**2023-12-03T12:26:23.000Z**
 
 \#LoadsheddingUpdate 
 
-Saturday, 02 December 2023: Stage 4 loadshedding will be implemented at 20:00 tonight until 05:00 on Monday, in order to replenish the dam levels at the pumped storage power stations in preparation for the week ahead. Eskom will continue to monitor the power…
+Sunday, 03 December 2023: In order to manage emergency reserves, Stage 4 loadshedding will remain in force until 05:00 on Monday.   Thereafter, Stage 3 loadshedding will be implemented from 05:00 until 16:00, followed by Stage 4 loadshedding until 05:00 on…
