@@ -1,7 +1,7 @@
 # Latest
 
-**2023-12-04T09:15:02.000Z**
+**2023-12-03T12:26:23.000Z**
 
-Eskom Treasury official, Ms Priscilla Jezi, will facilitate the panel discussion: "Right Financing and Transmission Investments Critical to the Transition" at the \#COP28, South Africa Pavilion. 
+\#LoadsheddingUpdate 
 
-\#Eskom \#SAatCOP28 \#NBICOP28
+Sunday, 03 December 2023: In order to manage emergency reserves, Stage 4 loadshedding will remain in force until 05:00 on Monday.   Thereafter, Stage 3 loadshedding will be implemented from 05:00 until 16:00, followed by Stage 4 loadshedding until 05:00 on…
