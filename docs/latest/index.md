@@ -1,7 +1,7 @@
 # Latest
 
-**2023-12-03T12:26:23.000Z**
+**2023-12-05T07:17:01.000Z**
 
 \#LoadsheddingUpdate 
 
-Sunday, 03 December 2023: In order to manage emergency reserves, Stage 4 loadshedding will remain in force until 05:00 on Monday.   Thereafter, Stage 3 loadshedding will be implemented from 05:00 until 16:00, followed by Stage 4 loadshedding until 05:00 on…
+Tuesday, 05 December 2023: Due to improved generation capacity and adequate emergency reserves, loadshedding was reduced to Stage 2 at 09:00 today until 16:00. Stage 3 loadshedding will be implemented from 16:00 today until 16:00 on Wednesday. Then Stage 4…
