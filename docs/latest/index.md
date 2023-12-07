@@ -1,7 +1,12 @@
 # Latest
 
-**2023-12-05T07:17:01.000Z**
+**2023-12-07T16:25:22.000Z**
 
-\#LoadsheddingUpdate 
+\#LoadsheddingUpdate
+Thursday, 07 December 2023:
 
-Tuesday, 05 December 2023: Due to improved generation capacity and adequate emergency reserves, loadshedding was reduced to Stage 2 at 09:00 today until 16:00. Stage 3 loadshedding will be implemented from 16:00 today until 16:00 on Wednesday. Then Stage 4…
+Eskom confirms that Stage 4 loadshedding was implemented at 16:00 today and will continue until 05:00 on Friday. 
+
+This will be followed by Stage 3 loadshedding from 05:00 until 16:00 on Friday.
+
+ Eskom will communicate further on…
