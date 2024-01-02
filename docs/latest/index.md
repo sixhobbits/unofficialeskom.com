@@ -1,7 +1,7 @@
 # Latest
 
-**2023-12-17T12:31:44.000Z**
+**2024-01-01T13:16:29.000Z**
 
-\#LoadsheddingUpdate 
+\#POWERALERT1
 
-Sunday, 17 December 2023: Due to consistent improvement in available generating capacity, loadshedding will remain suspended until 16:00 on Friday. Eskom will closely monitor the power system and communicate should any significant changes occur. The evening…
+Stage 2 loadshedding will be implemented from 05:00 until 16:00 on Tuesday. Thereafter, Stage 3 loadshedding will be implemented until 05:00 on Wednesday

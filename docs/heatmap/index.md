@@ -1,6 +1,6 @@
 # Heatmap calendar
 
-We have been loadshedding continuously for 0.0 hours, since 2016-10-29 19:00:00. The longest stage 1 (or more) streak started on 2015-04-17 05:30:00 and ended on 2015-04-17 22:30:00, for a total of 17.0 hours. The longest stage 6 (or more) streak started on 0 and ended on 0, for a total of 0.0 hours.
+We have been loadshedding continuously for 3.5 hours, since 2024-01-02 04:30:00. The longest stage 1 (or more) streak started on 2023-02-05 16:00:00 and ended on 2023-03-19 05:00:00, for a total of 997.0 hours. The longest stage 6 (or more) streak started on 2023-02-19 20:00:00 and ended on 2023-02-26 05:00:00, for a total of 153.0 hours.
 
 Loadshedding since 2015 - darker shades indicate a higher max loadshedding stage on that day. Blank squares indicate no load shedding on that day. Data from [EskomSePush (ESP)](https://sepush.co.za)'s [spreadsheet](https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/edit#gid=863218371).
 
@@ -21,6 +21,8 @@ Loadshedding since 2015 - darker shades indicate a higher max loadshedding stage
 ### 2022
 ![](./img/2022.png)
 ### 2023
+![](./img/2023.png)
+### 2024
 ![](./img/2023.png)
 
 
