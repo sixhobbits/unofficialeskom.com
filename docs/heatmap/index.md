@@ -23,7 +23,7 @@ Loadshedding since 2015 - darker shades indicate a higher max loadshedding stage
 ### 2023
 ![](./img/2023.png)
 ### 2024
-![](./img/2023.png)
+![](./img/2024.png)
 
 
 ### Legend
