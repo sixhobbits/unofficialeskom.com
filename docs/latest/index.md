@@ -1,7 +1,7 @@
 # Latest
 
-**2024-01-01T13:16:29.000Z**
+**2024-01-05T12:30:24.000Z**
 
-\#POWERALERT1
+\#LoadsheddingUpdate 
 
-Stage 2 loadshedding will be implemented from 05:00 until 16:00 on Tuesday. Thereafter, Stage 3 loadshedding will be implemented until 05:00 on Wednesday
+Friday, 05 January 2024: Stage 3 loadshedding will be implemented today at 16:00 until 05:00 on Saturday as previously communicated, followed by Stage 1 loadshedding until 16:00. Thereafter, Stage 2 loadshedding will be implemented from 16:00 until 05:00 on…
