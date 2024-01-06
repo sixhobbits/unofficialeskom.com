@@ -1,7 +1,7 @@
 # Latest
 
-**2024-01-05T12:30:24.000Z**
+**2024-01-06T07:50:56.000Z**
 
 \#LoadsheddingUpdate 
 
-Friday, 05 January 2024: Stage 3 loadshedding will be implemented today at 16:00 until 05:00 on Saturday as previously communicated, followed by Stage 1 loadshedding until 16:00. Thereafter, Stage 2 loadshedding will be implemented from 16:00 until 05:00 on…
+Saturday, 06 January 2024: Due to lower than expected electricity demand and slightly improved generating capacity, loadshedding will be suspended from 10:00 today until 16:00. Stage 2 loadshedding will resume at 16:00 until 5:00 on Sunday as previously…
