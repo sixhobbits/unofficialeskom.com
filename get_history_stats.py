@@ -157,7 +157,7 @@ with open("docs/heatmap/index.md") as f:
     for i, v in enumerate(lines):
         if v.startswith("###"):
             break
-    lines[1:i] = TEXT
+    lines[1:i] = [TEXT]
     towrite = '\n'.join(lines)
     
 
