@@ -60,10 +60,10 @@ def get_current_streak(df):
     for i, time in enumerate(half_hours):
         if currently_loadshedding:
             if stages[i] == 0:
-                return i/2, time, currently_loadshedding
+                return i/2, time, currently_loadshedding, half_hours[-1]
         else:
             if stages[i] != 0:
-                return i/2, time, currently_loadshedding
+                return i/2, time, currently_loadshedding, half_hours[-1]
         
         
     
@@ -143,10 +143,13 @@ if currently_loadshedding:
 else:
     current_streak_text = "We haven't had loadshedding for "
 
-TEXT = current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
+last_updated = current_streak[3]
+
+TEXT = "<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
 
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
+
 
 print(TEXT)
 
