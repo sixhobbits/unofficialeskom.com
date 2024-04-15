@@ -60,10 +60,10 @@ def get_current_streak(df):
     for i, time in enumerate(half_hours):
         if currently_loadshedding:
             if stages[i] == 0:
-                return i/2, time, currently_loadshedding, half_hours[-1]
+                return i/2, time, currently_loadshedding, half_hours[0]
         else:
             if stages[i] != 0:
-                return i/2, time, currently_loadshedding, half_hours[-1]
+                return i/2, time, currently_loadshedding, half_hours[0]
         
         
     
