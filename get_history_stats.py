@@ -145,7 +145,7 @@ else:
 
 last_updated = current_streak[3]
 
-TEXT = "<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
+TEXT = f"<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
 
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
