@@ -3,7 +3,11 @@
 
 We haven't had loadshedding for 510.5 hours, since 2024-03-26 04:30:00.
 
-The longest stage 1 (or more) streak started on 2023-02-05 16:00:00 and ended on 2023-03-19 05:00:00, for a total of 997.0 hours.
+ Previous record for no loadshedding was 694 hours, starting 2022-03-13 20:00:00 and ending 2022-04-11 18:00:00.
+
+
+
+The longest stage 1 (or more) streak of continuous loadshedding started on 2023-02-05 16:00:00 and ended on 2023-03-19 05:00:00, for a total of 997.0 hours.
 
 The longest stage 6 (or more) streak started on 2023-02-19 20:00:00 and ended on 2023-02-26 05:00:00, for a total of 153.0 hours.
 ### 2015

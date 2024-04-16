@@ -147,8 +147,9 @@ last_updated = current_streak[3]
 
 TEXT = f"<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
 
+TEXT += "\n\n Previous record for no loadshedding was 694 hours, starting 2022-03-13 20:00:00 and ending 2022-04-11 18:00:00.\n\n"
 
-TEXT += f"\n\nThe longest stage 1 (or more) streak started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
+TEXT += f"\n\nThe longest stage 1 (or more) streak of continuous loadshedding started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 
 
 print(TEXT)
