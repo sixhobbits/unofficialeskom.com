@@ -114,7 +114,7 @@ longest_stage_0_streak_2023 = get_longest_streak(df, stage_thresh=0, reverse=Tru
 print("longest 0 streak 2023")
 print(longest_stage_0_streak_2023)
 
-longest_stage_0_streak_2022 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2022-07-01", max_date="2022-12-31")
+longest_stage_0_streak_2022 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2022-03-01", max_date="2022-12-31")
 print("longest 0 streak 2022")
 print(longest_stage_0_streak_2022)
 print("==")
