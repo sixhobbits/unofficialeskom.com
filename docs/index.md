@@ -6,6 +6,10 @@ However, the official data is often badly presented or hard to find. This is an 
 
 Mainly this is collected in the "Unofficial Eskom Data Portal" dashboard, which you can find [here](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961).
 
+There is also the [long term dashboard](https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb) that has data going back to April 2018.
+
+**General appeal:** I started using Eskom's [data request form](https://www.eskom.co.za/dataportal/data-request-form/) in April 2023, so I have data going back to April 2018, as it only allows for the previous 5 years. If you used this form before this and you have older data, I'd love to integrate it. The oldest data dump I have is `ESK2745.csv`, so if you have one with a lower four digit number after `ESK` and are willing to share then please send me an email on gareth-at-ritza-dot-co.
+
 [![Preview of Unofficial Eskom Data Portal](assets/unofficial-eskom-data-portal.png)](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961)
 
 But you can also find some other information around at the [Dashboards](./dashboards), and a [heatmap](./heatmap) showing a calendar overview of loadshedding since 2015.
