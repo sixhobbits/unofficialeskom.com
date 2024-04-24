@@ -110,11 +110,11 @@ longest_stage_0_streak_2024 = get_longest_streak(df, stage_thresh=0, reverse=Tru
 print("longest 0 streak 2024")
 print(longest_stage_0_streak_2024)
 
-longest_stage_0_streak_2023 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2023-01-01", max_date="2024-01-31")
+longest_stage_0_streak_2023 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2022-10-01", max_date="2024-01-31")
 print("longest 0 streak 2023")
 print(longest_stage_0_streak_2023)
 
-longest_stage_0_streak_2022 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2022-03-01", max_date="2022-12-31")
+longest_stage_0_streak_2022 = get_longest_streak(df, stage_thresh=0, reverse=True, min_date="2021-10-01", max_date="2022-12-31")
 print("longest 0 streak 2022")
 print(longest_stage_0_streak_2022)
 print("==")
@@ -147,7 +147,7 @@ last_updated = current_streak[3]
 
 TEXT = f"<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
 
-TEXT += "\n\n Previous record for no loadshedding was 694 hours, starting 2022-03-13 20:00:00 and ending 2022-04-11 18:00:00.\n\n"
+TEXT += "\n\n Previous record for no loadshedding was 1406 hours, starting 2021-12-05 21:00:00 and ending 2022-02-02 11:00:00.\n\n"
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak of continuous loadshedding started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 
