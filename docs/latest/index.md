@@ -1,10 +1,7 @@
 # Latest
 
-**2024-04-21T12:11:59.000Z**
+**2024-05-12T14:56:59.000Z**
 
-\#LoadsheddingUpdate 
+\#PowerAlert1 
 
-Sunday, 21 April 2024: 
-
-Loadshedding will remain suspended until further notice. This decision comes after 25 consecutive days of uninterrupted suspension.
-The suspension of load shedding is attributed to the sustained generation capacity and adequate…
+Loadshedding remains suspended due to sustained improvement in Generation performance
