@@ -27,7 +27,9 @@ nav:
       - dashboards/index.md
       - Long-term Dashboards: dashboards/long-term.md
   - Heatmap: heatmap/index.md
-  - FAQ: faq/index.md
+  - FAQ: 
+      - faq/index.md
+      - faq/diesel-budget-and-elections.md
   - Latest: latest/index.md
   - About: about/index.md
 extra:
