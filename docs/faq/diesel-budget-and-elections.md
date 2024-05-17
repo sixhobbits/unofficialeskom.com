@@ -68,7 +68,7 @@ And Eskom doesn't really publish its actual diesel budget or purchases in an nea
 
 ## Looking at the OCGT usage data 
 
-The easiest data to look at is the OCGT use. This includes all the emergency power generators that Eskom controls, including its own diesel generators, and those owned by independent power producers like [Peakers](peakers.com).
+The easiest data to look at is the OCGT use. This includes all the emergency power generators that Eskom controls, including its own diesel generators, and those owned by independent power producers like [Peakers](https://peakers.com).
 
 ![](https://i.ritzastatic.com/images/4a806b745fd24a54b9d460f6fb5dde90/eskom-ocgt-use.png)
 
