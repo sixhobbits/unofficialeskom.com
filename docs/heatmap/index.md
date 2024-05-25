@@ -10,6 +10,7 @@ We haven't had loadshedding for 1456.5 hours, since 2024-03-26 04:30:00.
 The longest stage 1 (or more) streak of continuous loadshedding started on 2023-02-05 16:00:00 and ended on 2023-03-19 05:00:00, for a total of 997.0 hours.
 
 The longest stage 6 (or more) streak started on 2023-02-19 20:00:00 and ended on 2023-02-26 05:00:00, for a total of 153.0 hours.
+ data from Eskom se Push [Google Sheet](https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/edit#gid=863218371)
 ### 2015
 ![](./img/2015.png)
 ### 2016

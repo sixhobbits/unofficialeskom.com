@@ -151,6 +151,8 @@ TEXT += "\n\n Previous record for no loadshedding was 1406 hours, starting 2021-
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak of continuous loadshedding started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 
+TEXT += "\n data from Eskom se Push [Google Sheet](https://docs.google.com/spreadsheets/d/1ZpX_twP8sFBOAU6t--Vvh1pWMYSvs60UXINuD5n-K08/edit#gid=863218371)"
+
 
 print(TEXT)
 
