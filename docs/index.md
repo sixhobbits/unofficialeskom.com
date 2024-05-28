@@ -4,17 +4,19 @@
 
 However, the official data is often badly presented or hard to find. This is an unofficial site that aggregates the most useful information and makes it easier to find, nicer to look at, and generally more accessible.
 
-Mainly this is collected in the "Unofficial Eskom Data Portal" dashboard, which you can find [here](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961).
+Mainly this is collected in the [Unofficial Eskom Data Portal](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961) which is based on the short-term data, published on the eskom data portal and updated every few days (automatically, when Eskom publishes new CSV datasets on their site). The data goes back to October 2022.
 
-There is also the [long term dashboard](https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb) that has data going back to April 2018.
-
-**General appeal:** I started using Eskom's [data request form](https://www.eskom.co.za/dataportal/data-request-form/) in April 2023, so I have data going back to April 2018, as it only allows for the previous 5 years. If you used this form before this and you have older data, I'd love to integrate it. The oldest data dump I have is `ESK2745.csv`, so if you have one with a lower four digit number after `ESK` and are willing to share then please send me an email on gareth-at-ritza-dot-co.
+There is also the [long term dashboard](https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb) that has data going back to April 2017, updated once per month.
 
 [![Preview of Unofficial Eskom Data Portal](assets/unofficial-eskom-data-portal.png)](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961)
 
 But you can also find some other information around at the [Dashboards](./dashboards), and a [heatmap](./heatmap) showing a calendar overview of loadshedding since 2015.
 
-We aggregate data from:
+Here's a gif showing average OCGT generator use. These are the diesel generators meant for emergencies and to help with the 6pm demand peak, but which have been used often non-stop in the past few years.
+
+![OCGT by hour](https://i.ritzastatic.com/images/7e57055a32e74bc79a192d14b4eeb430/ocgt.gif).
+
+Other data sources include:
 
 * The Eskom [data portal](https://www.eskom.co.za/dataportal/).
 * The Eskom [Integrated results](https://www.eskom.co.za/investors/integrated-results/).
@@ -23,9 +25,4 @@ We aggregate data from:
 * The Eskom [media statements](https://www.eskom.co.za/category/news/) and [Twitter feed](http://twitter.com/eskom_sa).
 * [EskomSePush (ESP)](https://sepush.co.za).
 
-
-
-See the links in the header for more.
-
-**WIP - not everything above is actually live yet. Stay tuned.**
 
