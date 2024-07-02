@@ -149,7 +149,7 @@ TEXT = f"<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{cur
 
 TEXT += "\n\n We broke the record set between 2021-07-22 21:00:00 and 2021-10-07 20:30:00 lasting 1847.5 hours\n\n"
 
-TEXT += "The next record to break is the one between 2020-09-07 22:00:00 and 2020-12-12 05:30:00 lasting 2287.5 hours\n\n"
+TEXT += "The next record to break is the one between 2020-03-15 12:00:00 and 2020-07-10 11:30:00 lasting 2807.5 hours\n\n"
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak of continuous loadshedding started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 
