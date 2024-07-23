@@ -1,4 +1,5 @@
 import pandas as pd
+from get_history_stats import get_longest_streak
 
 HISTORY_FILE = "out.csv"
 
@@ -29,6 +30,6 @@ def get_longest_streaks(df, stage_thresh=1, reverse=False, min_date=None, max_da
 
 df = pd.read_csv(HISTORY_FILE)
 
-longest_stage_0_streak = get_longest_streak(df, stage_thresh=0, reverse=True)
-print("longest 0 streak 2024")
-print(longest_stage_0_streak)
+longest_stage_1_streak = get_longest_streak(df, stage_thresh=1, reverse=False)
+print("longest 1 streak")
+print(longest_stage_1_streak)
