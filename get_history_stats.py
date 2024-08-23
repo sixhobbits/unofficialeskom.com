@@ -147,9 +147,9 @@ last_updated = current_streak[3]
 
 TEXT = f"<i>Last updated: {last_updated}</i>\n\n" + current_streak_text + f"{current_streak[0]} hours, since {current_streak[1]}."
 
-TEXT += "\n\n We broke the record set between 2020-03-15 12:00:00 and 2020-07-10 11:30:00 lasting 2807.5 hours.\n\n"
+TEXT += "\n\n We broke the record set between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.\n\n"
 
-TEXT += "The next record to break is the one between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.\n\n"
+TEXT += "The next record to break is the one between 2018-06-16 21:00:00 and 2014-11-18 12:00:00 lasting 3711 hours.\n\n"
 
 TEXT += f"\n\nThe longest stage 1 (or more) streak of continuous loadshedding started on {longest_stage_1_streak[1]} and ended on {longest_stage_1_streak[2]}, for a total of {longest_stage_1_streak[0]} hours.\n\nThe longest stage 6 (or more) streak started on {longest_stage_6_streak[1]} and ended on {longest_stage_6_streak[2]}, for a total of {longest_stage_6_streak[0]} hours."
 

@@ -3,9 +3,9 @@
 
 We haven't had loadshedding for 3608.5 hours, since 2024-03-26 04:30:00.
 
- We broke the record set between 2020-03-15 12:00:00 and 2020-07-10 11:30:00 lasting 2807.5 hours.
+ We broke the record set between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.
 
-The next record to break is the one between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.
+The next record to break is the one between 2018-06-16 21:00:00 and 2014-11-18 12:00:00 lasting 3711 hours.
 
 
 
