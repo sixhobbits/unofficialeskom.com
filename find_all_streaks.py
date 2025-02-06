@@ -10,7 +10,7 @@ def find_zero_streaks(df):
     current_streak_start = None
 
     for i in range(len(df)):
-        if df.iloc[i]['stage'] == 0.0:
+        if df.iloc[i]['stage'] > 0.0:
             if current_streak_start is None:
                 current_streak_start = df.iloc[i]['created_at']
             current_streak_end = df.iloc[i]['created_at']
