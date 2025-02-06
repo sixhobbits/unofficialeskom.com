@@ -37,9 +37,9 @@ Generation has to be higher than demand, otherwise the grid collapses. Eskom doe
 
 
 
-## OCTG Usage
+## OCGT Usage
 
-Eskom has Open Cycle Gas Turbines (OCGTs) which burn diesel to generate power. These were intended to be used only as a last resort for peak demand during emergency breakdowns of the regular plants as they are not efficient and very expensive to run. However they are now regularly used to reduce the gap between supply and demand whenever Eskom has diesel available. Eskom has its own OCGTs and also buys power from some owned by Independent Power Producers. The graph below shows utilization rate of Eskom's OCTTs. See a larger version [here](https://metabase.dwyer.co.za/public/question/96924f74-508f-42ae-9b69-b842a211bc6c).
+Eskom has Open Cycle Gas Turbines (OCGTs) which burn diesel to generate power. These were intended to be used only as a last resort for peak demand during emergency breakdowns of the regular plants as they are not efficient and very expensive to run. However they are now regularly used to reduce the gap between supply and demand whenever Eskom has diesel available. Eskom has its own OCGTs and also buys power from some owned by Independent Power Producers. The graph below shows utilization rate of Eskom's OCGTs. See a larger version [here](https://metabase.dwyer.co.za/public/question/96924f74-508f-42ae-9b69-b842a211bc6c).
 
 <iframe    src="https://metabase.dwyer.co.za/public/question/96924f74-508f-42ae-9b69-b842a211bc6c"    frameborder="0"    width="800"    height="600"    allowtransparency></iframe>
 
