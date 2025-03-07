@@ -33,6 +33,8 @@ The longest stage 6 (or more) streak started on 2023-02-19 20:00:00 and ended on
 ![](./img/2023.png)
 ### 2024
 ![](./img/2024.png)
+### 2025
+![](./img/2025.png)
 
 
 ### Legend
