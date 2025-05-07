@@ -1,14 +1,22 @@
-# Dashboards
+# Dashboards and data
 
 Eskom releases information in several different ways - mainly their short term data portal (updated several times per week), their long-term data set dumps (available by filling out a form, and covering the previous 5 years), and the weely system reports (released on a wednesday for the previous week, but often late).
 
 Here are some dashboards based on each data source.
 
-* [Eskom 5 year dashboard](https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb)
+* [Eskom long term year dashboard](https://metabase.dwyer.co.za/public/dashboard/8a1e3f60-e53f-44c4-b045-cdcb35254ecb)
 * [Eskom Unofficial Data Portal](https://metabase.dwyer.co.za/public/dashboard/d3b40619-d8f0-4be3-a1f2-99fe5b84e961)
 * [Weekly System Status Reports](https://metabase.dwyer.co.za/public/dashboard/5b87c941-8734-4510-9c05-87c08b52cbfb)
 
 Some select charts from each are below. Note that they do not look good on mobile devices.
+
+## Data
+
+The above dashboards are built from sqlite databases, which are built from the CSV data that Eskom releases.
+
+* [**Eskom Metrics**](https://unofficialeskom.com/assets/databases/eskom_metrics.sqlite): This is the shorter term data. It's scraped daily, and collated with all the previous data since I started scraping.
+
+* [**Eskom Data**](https://unofficialeskom.com/assets/databases/eskom.sqlite): This is the longer term data. It's nearly the same as what you get if you fill out the form at https://www.eskom.co.za/dataportal/data-request-form/, but it's in sqlite form and it covers a period longer than the 5 year period that they limit to you in the official data downloads.
 
 ## Selected charts
 
