@@ -1,7 +1,7 @@
 # Heatmap calendar
-<i>Last updated: 2025-05-13 19:00:00</i>
+<i>Last updated: 2025-05-13 20:00:00</i>
 
-We have been loadshedding continuously for 3.5 hours, since 2025-05-13 15:30:00.
+We have been loadshedding continuously for 4.5 hours, since 2025-05-13 15:30:00.
 
  We broke the record set between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.
 
