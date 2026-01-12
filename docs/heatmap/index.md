@@ -1,7 +1,7 @@
 # Heatmap calendar
-<i>Last updated: 2026-01-12 10:00:00</i>
+<i>Last updated: 2026-01-12 11:00:00</i>
 
-We haven't had loadshedding for 5796.5 hours, since 2025-05-15 21:30:00.
+We haven't had loadshedding for 5797.5 hours, since 2025-05-15 21:30:00.
 
  We broke the record set between 2014-06-17 19:00:00 and 2014-11-02 07:30:00 lasting 3300.5 hours.
 
