@@ -23,11 +23,13 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Dashboards: 
+  - Dashboards:
       - dashboards/index.md
       - Long-term Dashboards: dashboards/long-term.md
   - Heatmap: heatmap/index.md
-  - FAQ: 
+  - Analysis:
+      - analysis/index.md
+  - FAQ:
       - faq/index.md
       - faq/diesel-budget-and-elections.md
   - Latest: latest/index.md
